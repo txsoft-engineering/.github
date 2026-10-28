@@ -2,11 +2,9 @@
 
 # TXSoft Engineering
 
-[English](README.md) | **Português** | [Español](README.es.md)
+[English](https://github.com/txsoft-engineering/.github/blob/main/profile/README.md) | **Português** | [Español](https://github.com/txsoft-engineering/.github/blob/main/profile/README.es.md)
 
-<video src="https://github.com/txsoft-engineering/.github/raw/main/profile/assets/txsoft-video.mp4" controls muted width="720"></video>
-
-[▶️ Assista ao vídeo da TXSoft](assets/txsoft-video.mp4)
+[▶️ Assista ao vídeo da TXSoft](https://github.com/txsoft-engineering/.github/blob/main/profile/assets/txsoft-video.mp4)
 
 **Divisão de pesquisa e desenvolvimento da TXSoft Technologies**
 
