@@ -4,7 +4,9 @@
 
 [English](https://github.com/txsoft-engineering/.github/blob/main/profile/README.md) | [Português](https://github.com/txsoft-engineering/.github/blob/main/profile/README.pt-BR.md) | **Español**
 
-[▶️ Mira el video de TXSoft](https://github.com/txsoft-engineering/.github/blob/main/profile/assets/txsoft-video.mp4)
+<a href="https://github.com/txsoft-engineering/.github/blob/main/profile/assets/txsoft-video.mp4"><img src="https://github.com/txsoft-engineering/.github/raw/main/profile/assets/txsoft-video.gif" alt="Video de TXSoft" width="800"></a>
+
+<sub>▶️ Haz clic para verlo con sonido</sub>
 
 **División de investigación y desarrollo de TXSoft Technologies**
 
