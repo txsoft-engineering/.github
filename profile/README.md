@@ -8,8 +8,6 @@
 
 **Research and development division of TXSoft Technologies**
 
-creating technologies that will one day make a difference
-
 </div>
 
 ---
@@ -17,6 +15,8 @@ creating technologies that will one day make a difference
 ## Who we are
 
 **TXSoft** is a startup focused on building, managing and optimizing technology solutions for companies and professionals. This organization brings together TXSoft's engineering work: the **Core Engine**, the platform's microservices, internal tools and ongoing research.
+
+> creating technologies that will one day make a difference
 
 <div align="center">
 <sub>© TXSoft Technologies · Building the future, one commit at a time.</sub>
